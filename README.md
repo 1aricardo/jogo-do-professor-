@@ -6,3 +6,5 @@ meu nome ricardo ribeiro F
 -Aqui tera trabalho de JavasScript e HTML
 
 ricardo.ribeiro.farias@escola.pr.gov.br
+
+![]()https://media.tenor.com/gW1fqdTs3isAAAAC/chicago-cubs.gif
